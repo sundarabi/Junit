@@ -9,6 +9,5 @@ Reusable Components: Common setup and teardown processes are handled in a BaseTe
 
 Prerequisites
 Java Development Kit (JDK) 8 or higher
-Maven (for dependency management and builds)
 Selenium WebDriver
 A modern web browser (e.g., Chrome, Firefox)
