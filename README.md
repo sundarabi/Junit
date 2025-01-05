@@ -11,3 +11,11 @@ Prerequisites
 Java Development Kit (JDK) 8 or higher
 Selenium WebDriver
 A modern web browser (e.g., Chrome, Firefox)
+src/
+├── main/
+│   └── java/
+│       └── base/        # Base classes and utilities
+├── test/
+    └── java/
+        ├── tests/       # Test cases
+        └── resources/   # Test data and configurations
