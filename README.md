@@ -10,5 +10,5 @@ Reusable Components: Common setup and teardown processes are handled in a BaseTe
 Prerequisites
 Java Development Kit (JDK) 8 or higher
 Selenium WebDriver
-A modern web browser (e.g., Chrome, Firefox)
+A modern web browser (e.g., Chrome)
 
